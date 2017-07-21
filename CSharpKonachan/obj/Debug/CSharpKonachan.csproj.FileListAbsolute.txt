@@ -1,0 +1,7 @@
+c:\users\dinu_\documents\visual studio 2017\Projects\CSharpKonachan\CSharpKonachan\bin\Debug\CSharpKonachan.dll
+c:\users\dinu_\documents\visual studio 2017\Projects\CSharpKonachan\CSharpKonachan\bin\Debug\CSharpKonachan.pdb
+c:\users\dinu_\documents\visual studio 2017\Projects\CSharpKonachan\CSharpKonachan\bin\Debug\Newtonsoft.Json.dll
+c:\users\dinu_\documents\visual studio 2017\Projects\CSharpKonachan\CSharpKonachan\bin\Debug\Newtonsoft.Json.xml
+c:\users\dinu_\documents\visual studio 2017\Projects\CSharpKonachan\CSharpKonachan\obj\Debug\CSharpKonachan.csprojResolveAssemblyReference.cache
+c:\users\dinu_\documents\visual studio 2017\Projects\CSharpKonachan\CSharpKonachan\obj\Debug\CSharpKonachan.dll
+c:\users\dinu_\documents\visual studio 2017\Projects\CSharpKonachan\CSharpKonachan\obj\Debug\CSharpKonachan.pdb
